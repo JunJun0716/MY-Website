@@ -144,12 +144,12 @@ a {
 .banner-wrapper {
     height: 520px;
     color: #fff;
-    background: url(../images/banner1.jpg) no-repeat center/cover;
+    background: url(../images/background.jpg) no-repeat center/cover;
 }
 
 .child-banner{
     height: 420px;
-    background: url(../images/banner1.jpg) no-repeat center/cover;
+    background: url(../images/background.jpg) no-repeat center/cover;
 }
 /* 导航区 */
 .nav {
